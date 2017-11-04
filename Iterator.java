@@ -4,3 +4,4 @@ public interface Iterator {
 	public Object next();
 }
 // version changed
+//version new
